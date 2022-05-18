@@ -37,6 +37,55 @@
   }
 }
 
-button {
-  background-color: #282c34;
+.start_page {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+  height: 25vh;
+  justify-content: space-between;
+}
+
+.step_image {
+  width: 20vw,
+}
+
+.title {
+  font-size: 5vh;
+}
+
+.author {
+  font-size: 4vh;
+}
+
+.adventure_text {
+  font-size: 4vh
+}
+
+
+.start_button {
+  background-color: red;
+  width: 20vw;
+  height: 5vh;
+  color: white;
+  font-size: 3vh;
+  font-family: 'Franklin Gothic Medium';
+}
+
+.choice_button {
+  background-color: rgb(0, 140, 255);
+  width: 10vw;
+  height: 5vh;
+  color: white;
+  font-size: 3vh;
+  font-family: 'Franklin Gothic Medium';
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
