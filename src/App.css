@@ -42,9 +42,14 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Bebas Neue', cursive;
   height: 25vh;
   justify-content: space-between;
+}
+
+button {
+  border: 0;
+  border-radius: 10;
 }
 
 .step_image {
@@ -53,24 +58,27 @@
 
 .title {
   font-size: 5vh;
+  color: #29335C;
 }
 
 .author {
   font-size: 4vh;
+  color: #29335C;
 }
 
 .adventure_text {
-  font-size: 4vh
+  font-size: 4vh;
+  color: #29335C;
 }
 
 
-.start_button {
-  background-color: red;
+.start_button, .back_button {
+  background-color: #DB2B39;
   width: 20vw;
   height: 5vh;
   color: white;
   font-size: 3vh;
-  font-family: 'Franklin Gothic Medium';
+  font-family: 'Macondo', cursive;
 }
 
 .choice_button {
@@ -79,7 +87,8 @@
   height: 5vh;
   color: white;
   font-size: 3vh;
-  font-family: 'Franklin Gothic Medium';
+  font-family: 'Macondo', cursive;
+  margin: 3vw;
 }
 
 .main {
@@ -88,4 +97,26 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
+  width: 100vw;
+  background-color: #F0CEA0;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+.step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.step_text {
+  font-size: 4vh;
+  padding-top: 5vh;
+  font-family: 'Odibee Sans', cursive;
+  color: #29335C;
 }

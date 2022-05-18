@@ -40,17 +40,13 @@ const Game = (props) => {
       return <button className='choice_button' key={index} onClick={() => setCurrStep(key)}>{GameDict[currStep]['choices'][key]}</button>;
     })
     // if it is the end
-    const backToHome = GameDict[currStep]['is_end'] ? <button onClick={() => startOver()}>Start Over</button> : <div/>;
+    const backToHome = GameDict[currStep]['is_end'] ? <button className='back_button' onClick={() => startOver()}>Start Over</button> : <div/>;
     //const image = require(GameDict[currStep]['image']);
     const image = GameDict[currStep]['image'];
-    console.log(image)
-    console.log(typeof(image))
-    console.log('./assets/grimms.png')
-    console.log(image === './assets/grimms.png')
     return (
       <div className='step'>
-        <div className='step_text'>{text}</div>
         <img className='step_image' alt='' src={image} width='400' />
+        <div className='step_text'>{text}</div>
         <div className='buttons'>
           {buttons}
         </div>
