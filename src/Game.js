@@ -22,7 +22,9 @@ const Game = (props) => {
 
   // advances step, resets state variables for each step
   const nextStep = (nextStep) => {
-    setHasLoaded(false);
+    if (GameDict[nextStep]['image']){
+      setHasLoaded(false);
+    }
     setSoundPlayed(false);
     // if the next step has an initial image to show
     if (GameDict[nextStep]['initial_image']) {
@@ -89,7 +91,7 @@ const Game = (props) => {
     
     return (
       <div className='step'>
-        <img className='step_image' alt='' src={image} width='400' onload={() => setHasLoaded(true)} />
+        <img className='step_image' alt='' src={image} width='400' />
         <div className='step_text'>{text}</div>
         <div className='buttons'>
           {buttons}

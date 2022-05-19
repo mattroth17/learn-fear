@@ -83,12 +83,11 @@ button {
 
 .choice_button {
   background-color: rgb(0, 140, 255);
-  width: 10vw;
-  height: 5vh;
   color: white;
   font-size: 3vh;
   font-family: 'Macondo', cursive;
   margin: 3vw;
+  padding: 1vh;
 }
 
 .main {
@@ -115,8 +114,9 @@ button {
 }
 
 .step_text {
+  text-align: center;
   font-size: 4vh;
-  padding-top: 5vh;
+  padding: 5vh;
   font-family: 'Odibee Sans', cursive;
   color: #29335C;
 }
