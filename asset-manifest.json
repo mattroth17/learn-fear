@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/learn-fear/static/css/main.83079772.css",
-    "main.js": "/learn-fear/static/js/main.0a36e02c.js",
+    "main.css": "/learn-fear/static/css/main.b0eb5d1d.css",
+    "main.js": "/learn-fear/static/js/main.5870e8ec.js",
     "static/js/845.ee66a780.chunk.js": "/learn-fear/static/js/845.ee66a780.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/learn-fear/static/js/787.28cb0dcd.chunk.js",
     "static/media/wolves.mp3": "/learn-fear/static/media/wolves.bdfbd2b28b02b651c0f9.mp3",
-    "static/media/grimms.png": "/learn-fear/static/media/grimms.a082f7f410c46d07c802.png",
+    "static/media/background.png": "/learn-fear/static/media/background.4081a5fca26e5823b22f.png",
+    "static/media/fish.png": "/learn-fear/static/media/fish.a3182425289020f17fec.png",
+    "static/media/kicked_out.png": "/learn-fear/static/media/kicked_out.62f8869dff9f49b91725.png",
+    "static/media/sexton.png": "/learn-fear/static/media/sexton.394aa153e1df7ce680a6.png",
+    "static/media/challenge.png": "/learn-fear/static/media/challenge.8e6471c6549ee2ef0b14.png",
     "index.html": "/learn-fear/index.html",
-    "main.83079772.css.map": "/learn-fear/static/css/main.83079772.css.map",
-    "main.0a36e02c.js.map": "/learn-fear/static/js/main.0a36e02c.js.map",
+    "main.b0eb5d1d.css.map": "/learn-fear/static/css/main.b0eb5d1d.css.map",
+    "main.5870e8ec.js.map": "/learn-fear/static/js/main.5870e8ec.js.map",
     "845.ee66a780.chunk.js.map": "/learn-fear/static/js/845.ee66a780.chunk.js.map",
     "787.28cb0dcd.chunk.js.map": "/learn-fear/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83079772.css",
-    "static/js/main.0a36e02c.js"
+    "static/css/main.b0eb5d1d.css",
+    "static/js/main.5870e8ec.js"
   ]
 }
