@@ -13,7 +13,7 @@ export const GameDict = {
   'left': {
     'text': 'You went left! Game over',
     'choices': {},
-    'image': './assets/grimms.png',
+    'image': require('./assets/grimms.png'),
     'initial_image': '',
     'sound': './assets/wolves.mp3',
     'is_end': true,
@@ -21,8 +21,8 @@ export const GameDict = {
   'right': {
     'text': 'You went right! Game over',
     'choices': {},
-    'image': './assets/grimms.png',
-    'initial_image': '',
+    'image': require('./assets/grimms.png'),
+    'initial_image': require('./assets/grimms.png'),
     'sound': './assets/wolves.mp3',
     'is_end': true,
   }

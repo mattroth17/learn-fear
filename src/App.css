@@ -120,3 +120,12 @@ button {
   font-family: 'Odibee Sans', cursive;
   color: #29335C;
 }
+
+.initial_image {
+  width: 100vw;
+  height: 100vh;
+}
+
+.back_button {
+  margin-top: 2vh;
+}
