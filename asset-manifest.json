@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/learn-fear/static/css/main.f9404004.css",
-    "main.js": "/learn-fear/static/js/main.3e4f6696.js",
+    "main.css": "/learn-fear/static/css/main.83079772.css",
+    "main.js": "/learn-fear/static/js/main.0a36e02c.js",
     "static/js/845.ee66a780.chunk.js": "/learn-fear/static/js/845.ee66a780.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/learn-fear/static/js/787.28cb0dcd.chunk.js",
     "static/media/wolves.mp3": "/learn-fear/static/media/wolves.bdfbd2b28b02b651c0f9.mp3",
     "static/media/grimms.png": "/learn-fear/static/media/grimms.a082f7f410c46d07c802.png",
     "index.html": "/learn-fear/index.html",
-    "main.f9404004.css.map": "/learn-fear/static/css/main.f9404004.css.map",
-    "main.3e4f6696.js.map": "/learn-fear/static/js/main.3e4f6696.js.map",
+    "main.83079772.css.map": "/learn-fear/static/css/main.83079772.css.map",
+    "main.0a36e02c.js.map": "/learn-fear/static/js/main.0a36e02c.js.map",
     "845.ee66a780.chunk.js.map": "/learn-fear/static/js/845.ee66a780.chunk.js.map",
     "787.28cb0dcd.chunk.js.map": "/learn-fear/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9404004.css",
-    "static/js/main.3e4f6696.js"
+    "static/css/main.83079772.css",
+    "static/js/main.0a36e02c.js"
   ]
 }
