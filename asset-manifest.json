@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/learn-fear/static/css/main.7bff8d11.css",
-    "main.js": "/learn-fear/static/js/main.b100e3da.js",
+    "main.js": "/learn-fear/static/js/main.4a48715b.js",
     "static/js/845.b0f9a5f6.chunk.js": "/learn-fear/static/js/845.b0f9a5f6.chunk.js",
     "static/js/787.1327207c.chunk.js": "/learn-fear/static/js/787.1327207c.chunk.js",
-    "static/media/water.mp3": "/learn-fear/static/media/water.66fdc26a8798f2dbe482.mp3",
+    "static/media/water.mp3": "/learn-fear/static/media/water.c63ea56f6cde0a85ba3d.mp3",
     "static/media/lightning.mp3": "/learn-fear/static/media/lightning.ad24e7b4d6ec5d47c697.mp3",
     "static/media/background.png": "/learn-fear/static/media/background.4081a5fca26e5823b22f.png",
     "static/media/fish.png": "/learn-fear/static/media/fish.a3182425289020f17fec.png",
@@ -13,12 +13,12 @@
     "static/media/challenge.png": "/learn-fear/static/media/challenge.8e6471c6549ee2ef0b14.png",
     "index.html": "/learn-fear/index.html",
     "main.7bff8d11.css.map": "/learn-fear/static/css/main.7bff8d11.css.map",
-    "main.b100e3da.js.map": "/learn-fear/static/js/main.b100e3da.js.map",
+    "main.4a48715b.js.map": "/learn-fear/static/js/main.4a48715b.js.map",
     "845.b0f9a5f6.chunk.js.map": "/learn-fear/static/js/845.b0f9a5f6.chunk.js.map",
     "787.1327207c.chunk.js.map": "/learn-fear/static/js/787.1327207c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bff8d11.css",
-    "static/js/main.b100e3da.js"
+    "static/js/main.4a48715b.js"
   ]
 }
